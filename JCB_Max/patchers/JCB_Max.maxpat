@@ -2022,7 +2022,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 160.981135189533234, 537.0, 58.0, 22.0 ],
+					"patching_rect" : [ 160.981135189533234, 544.0, 58.0, 22.0 ],
 					"text" : "s noteVal"
 				}
 
@@ -4508,7 +4508,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "JCB_Note_Selection.maxpat",
-				"bootpath" : "~/Desktop/JCB_Max/patchers",
+				"bootpath" : "~/Documents/Repo Projects/JCB/JCB/JCB_Max/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

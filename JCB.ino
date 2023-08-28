@@ -1,11 +1,11 @@
 //Global Sensor Inputs
 int osc_ribbon_1 = A0;
 int osc_ribbon_2 = A2;
-int osc_ribbon_3 = A5;
+int osc_ribbon_3 = A4;
 
 int fsr_ribbon_1 = A1;
 int fsr_ribbon_2 = A3;
-int fsr_ribbon_3 = A4;
+int fsr_ribbon_3 = A5;
 
 int fx_ribbon_1 = A6;
 int fx_ribbon_2 = A7;
